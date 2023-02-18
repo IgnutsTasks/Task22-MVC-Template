@@ -12,7 +12,6 @@ GameObject:
   - component: {fileID: 3895335860423462569}
   - component: {fileID: 3895335860423462570}
   - component: {fileID: 3895335860423462551}
-  - component: {fileID: -7114915583167052412}
   m_Layer: 5
   m_Name: TypeView
   m_TagString: Untagged
@@ -124,21 +123,6 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls: []
---- !u!114 &-7114915583167052412
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3895335860423462572}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6d177f7fdcf9432a832d337c848c842b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  avatarImage: {fileID: 3895335861560458459}
-  useButton: {fileID: 3895335860423462551}
-  typeNameText: {fileID: 3895335861986123535}
 --- !u!1 &3895335861194329799
 GameObject:
   m_ObjectHideFlags: 0
